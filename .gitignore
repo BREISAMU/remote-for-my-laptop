@@ -1,0 +1,4 @@
+processes.txt
+node_modules
+test
+.env
